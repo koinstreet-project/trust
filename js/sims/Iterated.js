@@ -1,3 +1,6 @@
+
+///// animation logic and tracking states 
+
 Loader.addToManifest(Loader.manifest,{
 
 	iterated_coin: "assets/iterated/iterated_coin.json",

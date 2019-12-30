@@ -15,6 +15,7 @@ SLIDES.push({
 		o.iterated.playerA.chooseHat("tft");
 
 		// Words on top & bottom
+		// word are referenced from words.html	
 		self.add({
 			id:"topWords", type:"TextBox", text_id:"noise_1",
 			x:130, y:35, width:700, height:100, align:"center"

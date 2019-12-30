@@ -43,6 +43,7 @@ SLIDES.push({
 		});
 
 		// Buttons
+		//
 		self.add({
 			id:"buttonCheat", type:"Button", x:275, y:453, uppercase:true,
 			text_id:"label_cheat",
